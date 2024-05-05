@@ -1,3 +1,5 @@
+<img width="1273" alt="Screenshot 2024-05-05 at 3 02 56 PM" src="https://github.com/mana9512/streamlit-facial-emotion-recognition/assets/60699342/5e3bd30f-d51e-46e0-9e04-56c86e26d617">
+
 # streamlit-facial-emotion-recognition
 
 # Facial Emotion Recognition Integrated with Streamlit
